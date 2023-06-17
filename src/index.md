@@ -4,13 +4,13 @@
 
 layout: page
 title: Home
-permalink: "/a"
+permalink: "/"
 navpage: true
 ---
 
 ### Hey, I'm Tom. Here's my work
 
-<script src="index/seamless.js" type="text/javascript" defer></script>
+<script src="/seamless.js" type="text/javascript" defer></script>
 
 <canvas id="seamlessCanvas" width="50" height="50"></canvas>
 

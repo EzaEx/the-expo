@@ -23,7 +23,7 @@ email: tomlewisint@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Portfolio/Showcase site of Ezaex (AKA Tom)
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ezaex.github.io/the-expo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ezaex.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ezaexpo
 github_username: ezaex
 
