@@ -1,0 +1,22 @@
+---
+---
+
+@import "minima";
+
+.site-title {
+    transition: letter-spacing 0.5s;
+}
+
+.site-title:hover {
+    transition: letter-spacing 0.5s;
+    letter-spacing: 10px;
+}
+
+#seamlessCanvas {
+    display: block;
+    width: 40vmin;
+    image-rendering: pixelated;
+    border: solid 0.7vmin;
+    border-color: $grey-color-dark;
+    background-color: $grey-color-dark;
+}
